@@ -24,6 +24,8 @@
 <div class="col-sm-8">
     <div class="card-block">
 
+        
+
         <div class="row">
             <div class="col-lg-6">
                 <h6 class="m-b-20 p-b-5  f-w-600">Informations personnelles</h6>
